@@ -69,7 +69,14 @@ class _SignupBodyState extends State<SignupBody> {
         context: context,
         builder: (context) {
           return AlertDialog(
-            title: Text('Select Image From'),
+            backgroundColor: Colors.teal,
+            title: Text(
+              'Select Image From',
+              style: TextStyle(
+                color: Colors.white,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
             content: Column(
               mainAxisSize: MainAxisSize.min,
               children: [
