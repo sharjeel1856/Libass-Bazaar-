@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "960968285133",
+    "project_id": "olxclone-8c13b",
+    "storage_bucket": "olxclone-8c13b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960968285133:android:25af32b20260be30dfc284",
+        "android_client_info": {
+          "package_name": "com.example.olx_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9xeXPL97fSAkamCDlyyHKWxalVaefB5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
